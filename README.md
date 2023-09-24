@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Domagoj Marković
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: C#/ REACT / JS / HTML / CSS/ SQL
