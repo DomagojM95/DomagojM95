@@ -1,16 +1,20 @@
-
-<h1 align="center">Hi , I'm Domagoj Marković</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=domagojm95&label=Profile%20views&color=0e75b6&style=flat" alt="domagojm95" /> </p>
-
+### Hi there 👋, my name is Domagoj Marković
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-- 📫 How to reach me **markovicdomagoj1995@gmail.com**
+Skills: C#/ REACT / JS / HTML / CSS/ SQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 📫 How to reach me: markovicdomagoj1995@gmail.com 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=domagojm95&show_icons=true&locale=en" alt="domagojm95" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DomagojM95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marka78)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomagojM95)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DomagojM95&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DomagojM95)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=DomagojM95)  
+
+![Profile views](https://gpvc.arturio.dev/DomagojM95)  
